@@ -1,0 +1,49 @@
+PROYECTO CORIX-FOOD
+
+base de datos 
+
+TABLAS
+
+cliente
+	id
+	cedula
+	nombre
+	telefono
+	correo
+	direccion
+	tipo
+	puntuacion
+	fecha_cumpleanos
+empleado
+	id
+	cedula
+	nombre
+	telefono
+	correo
+	fecha_cumpleanos
+	fecha_inicio
+	fecha_salida
+	tipo
+	rol
+
+orden
+
+kardex
+
+producto
+	id
+	nombre
+	descripcion
+	tipo
+	valor
+	unidad
+
+presentacion
+	id
+	tipo
+	descripcion
+	unidad
+
+proveedores
+
+factura
